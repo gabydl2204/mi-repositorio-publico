@@ -17,3 +17,6 @@ Estamos documentando los primeros pasos en el control de versiones
 ### Autor
 Gabriela Duque
 
+### Status
+Finalizado en la version 1.0
+
